@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ca6a344.css",
-    "main.js": "/static/js/main.ea914136.js",
+    "main.css": "/static/css/main.86b64406.css",
+    "main.js": "/static/js/main.1b44e5fb.js",
     "static/js/787.c1112931.chunk.js": "/static/js/787.c1112931.chunk.js",
     "static/media/pic4.jpg": "/static/media/pic4.7548a9a22f031e35041d.jpg",
     "static/media/pic5.jpg": "/static/media/pic5.6e4bda066a4df69d1424.jpg",
@@ -10,17 +10,16 @@
     "static/media/pic1.jpg": "/static/media/pic1.9c3d5e48015f0807ca99.jpg",
     "static/media/restaurent.jpg": "/static/media/restaurent.faaf1aed8032efba996b.jpg",
     "static/media/small-piza.jpg": "/static/media/small-piza.51e4ac87b06f9324769e.jpg",
-    "static/media/new.jpg": "/static/media/new.43cb4a3c07ec4fccc78e.jpg",
     "static/media/pic7.jpg": "/static/media/pic7.821bc61acba8a0fd872d.jpg",
     "static/media/pic6.jpg": "/static/media/pic6.8fa9e4998e98994cdc29.jpg",
     "static/media/about.jpg": "/static/media/about.25b4cf3d55134a79fddc.jpg",
     "index.html": "/index.html",
-    "main.5ca6a344.css.map": "/static/css/main.5ca6a344.css.map",
-    "main.ea914136.js.map": "/static/js/main.ea914136.js.map",
+    "main.86b64406.css.map": "/static/css/main.86b64406.css.map",
+    "main.1b44e5fb.js.map": "/static/js/main.1b44e5fb.js.map",
     "787.c1112931.chunk.js.map": "/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ca6a344.css",
-    "static/js/main.ea914136.js"
+    "static/css/main.86b64406.css",
+    "static/js/main.1b44e5fb.js"
   ]
 }
